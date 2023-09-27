@@ -1,4 +1,6 @@
 book
 .DS_Store
 node_modules
+output/
+theme/
 

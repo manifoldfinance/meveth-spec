@@ -1,6 +1,23 @@
 [book]
-authors = ["sam bacha"]
+authors = ["CommodityStream, Inc."]
 language = "en"
 multilingual = false
 src = "src"
 title = "mevETH Protocol"
+
+
+[output.html]
+no-section-label = true
+additional-js = ["solidity.min.js", "theme/pagetoc.js"]
+additional-css = ["book.css", "./theme/catppuccin.css", "./theme/catppuccin-admonish.css", "theme/pagetoc.css"]
+git-repository-url = "https://github.com/manifoldfinance/mevETH2"
+# mdbook-catppuccin install
+
+[output.html.fold]
+enable = true
+
+[preprocessor]
+[preprocessor.pagetoc]
+
+[preprocessor.catppuccin]
+assets_version = "1.0.0" # DO NOT EDIT: Managed by `mdbook-catppuccin install`

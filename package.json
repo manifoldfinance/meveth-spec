@@ -1,0 +1,14 @@
+{
+  "name": "meveth-rtfm",
+  "private": true,
+  "version": "0.0.0",
+  "description": "",
+  "scripts": {},
+  "keywords": [],
+  "author": "SEE CONTRIBUTORS",
+  "license": "SEE LICENSE IN LICENSE",
+  "devDependencies": {
+    "gh-pages": "^6.0.0",
+    "prettier": "^3.0.3"
+  }
+}

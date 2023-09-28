@@ -7,6 +7,7 @@ title = "mevETH Protocol"
 
 
 [output.html]
+mathjax-support = true
 no-section-label = true
 additional-js = ["solidity.min.js", "theme/pagetoc.js", "sidebar.js"]
 additional-css = ["book.css", "./theme/catppuccin.css", "style.css",  "./theme/catppuccin-admonish.css", "theme/pagetoc.css"]
@@ -18,6 +19,12 @@ enable = true
 
 [preprocessor]
 [preprocessor.pagetoc]
+
+[preprocessor.toc]
+command = "mdbook-toc"
+renderer = ["html"]
+marker = "[TOC]"
+max-level = 3
 
 [preprocessor.catppuccin]
 assets_version = "1.0.0" # DO NOT EDIT: Managed by `mdbook-catppuccin install`

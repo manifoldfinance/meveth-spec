@@ -1,5 +1,6 @@
 # MevETHRateProvider
-[Git Source](https://github.com/manifoldfinance/mevETH2/blob/fb1b10e0f4766c0b96be04b99ddfd379368057c1/src/MevEthRateProvider.sol)
+
+[TOC]
 
 **Inherits:**
 [IRateProvider](/gh-pages/src/src/interfaces/IRateProvider.sol/interface.IRateProvider.md)

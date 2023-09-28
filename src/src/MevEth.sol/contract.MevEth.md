@@ -1,5 +1,6 @@
 # MevEth
-[Git Source](https://github.com/manifoldfinance/mevETH2/blob/fb1b10e0f4766c0b96be04b99ddfd379368057c1/src/MevEth.sol)
+
+[TOC]
 
 **Inherits:**
 [OFTWithFee](/gh-pages/src/src/layerZero/oft/OFTWithFee.sol/contract.OFTWithFee.md), [IERC4626](/gh-pages/src/src/interfaces/IERC4626.sol/interface.IERC4626.md), [ITinyMevEth](/gh-pages/src/src/interfaces/ITinyMevEth.sol/interface.ITinyMevEth.md)

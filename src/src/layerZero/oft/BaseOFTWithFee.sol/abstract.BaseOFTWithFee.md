@@ -1,5 +1,6 @@
 # BaseOFTWithFee
-[Git Source](https://github.com/manifoldfinance/mevETH2/blob/fb1b10e0f4766c0b96be04b99ddfd379368057c1/src/layerZero/oft/BaseOFTWithFee.sol)
+
+[TOC]
 
 **Inherits:**
 [OFTCoreV2](/gh-pages/src/src/layerZero/oft/OFTCoreV2.sol/abstract.OFTCoreV2.md), [Fee](/gh-pages/src/src/layerZero/oft/Fee.sol/abstract.Fee.md), ERC165, [IOFTWithFee](/gh-pages/src/src/interfaces/IOFTWithFee.sol/interface.IOFTWithFee.md)

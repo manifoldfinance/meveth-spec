@@ -1,5 +1,6 @@
 # OFTCoreV2
-[Git Source](https://github.com/manifoldfinance/mevETH2/blob/fb1b10e0f4766c0b96be04b99ddfd379368057c1/src/layerZero/oft/OFTCoreV2.sol)
+
+[TOC]
 
 **Inherits:**
 [NonblockingLzApp](/gh-pages/src/src/layerZero/lzApp/NonblockingLzApp.sol/abstract.NonblockingLzApp.md)

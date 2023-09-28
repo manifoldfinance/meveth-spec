@@ -19,5 +19,11 @@ enable = true
 [preprocessor]
 [preprocessor.pagetoc]
 
+[preprocessor.toc]
+command = "mdbook-toc"
+renderer = ["html"]
+marker = "[TOC]"
+max-level = 3
+
 [preprocessor.catppuccin]
 assets_version = "1.0.0" # DO NOT EDIT: Managed by `mdbook-catppuccin install`

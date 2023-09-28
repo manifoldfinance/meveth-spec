@@ -1,5 +1,6 @@
 # LzApp
-[Git Source](https://github.com/manifoldfinance/mevETH2/blob/fb1b10e0f4766c0b96be04b99ddfd379368057c1/src/layerZero/lzApp/LzApp.sol)
+
+[TOC]
 
 **Inherits:**
 [Auth](/gh-pages/src/src/libraries/Auth.sol/contract.Auth.md), [ILayerZeroReceiver](/gh-pages/src/src/interfaces/ILayerZeroReceiver.sol/interface.ILayerZeroReceiver.md), [ILayerZeroUserApplicationConfig](/gh-pages/src/src/interfaces/ILayerZeroUserApplicationConfig.sol/interface.ILayerZeroUserApplicationConfig.md)

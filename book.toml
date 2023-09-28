@@ -7,6 +7,7 @@ title = "mevETH Protocol"
 
 
 [output.html]
+mathjax-support = true
 no-section-label = true
 additional-js = ["solidity.min.js", "theme/pagetoc.js", "sidebar.js"]
 additional-css = ["book.css", "./theme/catppuccin.css", "style.css",  "./theme/catppuccin-admonish.css", "theme/pagetoc.css"]

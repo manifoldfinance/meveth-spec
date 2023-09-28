@@ -8,8 +8,8 @@ title = "mevETH Protocol"
 
 [output.html]
 no-section-label = true
-additional-js = ["solidity.min.js", "theme/pagetoc.js"]
-additional-css = ["book.css", "./theme/catppuccin.css", "./theme/catppuccin-admonish.css", "theme/pagetoc.css"]
+additional-js = ["solidity.min.js", "theme/pagetoc.js", "sidebar.js"]
+additional-css = ["book.css", "./theme/catppuccin.css", "style.css",  "./theme/catppuccin-admonish.css", "theme/pagetoc.css"]
 git-repository-url = "https://github.com/manifoldfinance/mevETH2"
 # mdbook-catppuccin install
 
